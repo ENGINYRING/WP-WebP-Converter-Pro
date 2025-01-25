@@ -3,7 +3,7 @@
  * Plugin Name: WebP Converter Pro
  * Plugin URI: https://go.enginyr.ing/CwiK
  * Description: Advanced WebP conversion with bulk processing and optimized delivery. Powered by high-performance hosting.
- * Version: 2.0.1
+ * Version: 2.0.2
  * Author: ENGINYRING
  * Author URI: https://www.enginyring.com/
  * License: GPL v3
