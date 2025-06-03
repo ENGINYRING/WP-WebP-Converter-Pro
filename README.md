@@ -1,4 +1,8 @@
-# WebP Converter Pro for WordPress
+[![ENGINYRING](https://cdn.enginyring.com/img/logo_dark.png)](https://www.enginyring.com)
+
+# WORK IN PROGRESS! DO NOT USE IN PRODUCTION
+
+## WebP Converter Pro for WordPress
 
 A high-performance WordPress plugin that automatically converts and serves WebP images while maintaining original URLs. Designed to work efficiently across different hosting environments, with special optimizations for high-performance hosting platforms.
 
